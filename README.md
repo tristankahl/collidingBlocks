@@ -1,4 +1,4 @@
-# collidingBlocks
+# Colliding Blocks
 Simulating two colliding blocks inspired by Grant Sanderson (3Blue1Brown)
 
 The idea of this project is to introduce some new features to the model and find out what happens.
